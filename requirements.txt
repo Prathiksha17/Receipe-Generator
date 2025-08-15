@@ -2,6 +2,5 @@ streamlit
 langchain
 langchain_groq
 python-dotenv
-search-results
 pyttsx3
 gtts
